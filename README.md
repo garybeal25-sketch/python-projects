@@ -1,4 +1,31 @@
 # python-projects# 🚀 Python Projects Portfolio# 🚀 Python Projects Portfolio
+# 🚀 Python Projects Portfolio
+
+Welcome to my collection of beginner Python projects!  
+All projects are created in **Google Colab** and saved on GitHub.
+
+---
+
+## 📂 Projects
+
+### Games
+1. [🎲 Number Guessing Game](https://colab.research.google.com/github/garybeal25-sketch/python-projects/blob/main/games/number_guessing_game.ipynb)  
+   A fun Python game where the user tries to guess a random number.
+
+### Data
+1. [📊 Player Stats Analysis](https://colab.research.google.com/github/garybeal25-sketch/python-projects/blob/main/data/player_stats_analysis.ipynb)  
+   A simple data analysis project using Pandas and Matplotlib.
+
+### Scripts
+1. [👤 Hello Name & Age](https://colab.research.google.com/github/garybeal25-sketch/python-projects/blob/main/hello_name_age.ipynb)  
+   A basic Python script demonstrating variables and output.
+
+---
+
+## 🧑‍💻 About Me
+- 👋 Hi, I’m **Gary**.  
+- 🌱 Learning Python, GitHub, and Google Colab.  
+- 🎯 Goal: Build a portfolio of projects to showcase my coding skills.
 
 Welcome to my collection of beginner Python projects!  
 All projects are created in **Google Colab** and saved on GitHub.
