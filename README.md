@@ -1,11 +1,7 @@
-# python-projects# 🚀 Python Projects Portfolio# 🚀 Python Projects Portfolio
-# 🚀 Python Projects Portfolio
+# python-projects# 🚀 Python Projects Portfolio# 🚀 
 
 Welcome to my collection of beginner Python projects!  
 All projects are created in **Google Colab** and saved on GitHub.# 🚀 Python Projects Portfolio
-
-Welcome to my collection of beginner Python projects!  
-All projects are created in **Google Colab** and saved on GitHub.
 
 ---
 
